@@ -107,3 +107,9 @@ GOOGLE_API_KEY=AIza...
 
 : https://ai.google.dev/
 
+
+> **⚠️ NOTE: This project is for evaluation purposes only.**
+>
+> This code and workflow are intended for demonstration, prototyping, and educational/testing use. It is **not production ready** and has not been reviewed for security, privacy, or reliability requirements expected of production or critical systems.
+>
+> Please do not use this tool for handling sensitive, private, or regulated data. Contributions and experiments are welcome!

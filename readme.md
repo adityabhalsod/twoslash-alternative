@@ -1,4 +1,4 @@
-# TwoSlash-alternative 
+# twoslash-alternative 
 ## Python Keyboard-Driven GenAI Assistant
 
 A CLI and keyboard-triggered assistant for quickly generating code snippets or rich formatted text using Google Gemini GenAI, inspired by twoslash. Use live keyboard triggers to submit requests and get answers, pasted automatically wherever you are working.
